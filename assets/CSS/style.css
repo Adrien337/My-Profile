@@ -32,7 +32,8 @@ h1 {
 #weaknesses,
 #programmation-languages,
 #languages-spoken,
-#tools {
+#tools,
+#interests {
     display: flex;
     align-items: center;
     gap: 20px;

@@ -33,8 +33,13 @@ let tools = [
     "Microsoft Office 365 suite",
     "Wordpress"
 ];
+let interests = [
+    "Animes",
+    "Video games",
+    "Programmation"
+];
 
-function displayLists (list, listName, displayLength) { // Works so I never touch it again
+function displayLists (list, listName, displayLength) { // Works well so I never touch it again
     let beforeButton = document.querySelector(`#${listName}-before-button`);
     let afterButton = document.querySelector(`#${listName}-after-button`);
     let text = document.querySelector(`#${listName}-text`);
@@ -66,3 +71,4 @@ displayLists(weaknesses, "weaknesses", 1);
 displayLists(programmationLanguages, "programmation-languages" , 2);
 displayLists(languagesSpoken, "languages-spoken" , 1);
 displayLists(tools, "tools", 2);
+displayLists(interests, "interests", 2)
