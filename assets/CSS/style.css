@@ -1,8 +1,5 @@
 * {
     margin: 2px;
-    /* Dark mode
-    background-color: black;
-    color:white */
 }
 
 h1 {
@@ -41,10 +38,16 @@ h1 {
 }
 
 /* Section my experiences */
- #my-experiences {
+#my-experiences {
     display: flex;
     flex-direction: column;
- }
+}
+
+/* Section my projects */
+#my-projects {
+    display: flex;
+    flex-direction: column;
+}
 
 /* Classes */
 .container {
