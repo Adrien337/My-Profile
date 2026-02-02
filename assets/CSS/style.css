@@ -40,6 +40,12 @@ h1 {
     white-space: nowrap;
 }
 
+/* Section my experiences */
+ #my-experiences {
+    display: flex;
+    flex-direction: column;
+ }
+
 /* Classes */
 .container {
     display: flex;
