@@ -1,0 +1,46 @@
+* {
+    margin: 2px;
+    /* Dark mode
+    background-color: black;
+    color:white */
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+/* Section personal informations */
+#private-informations {
+    display: flex;
+    flex-direction: row;
+}
+
+#profile-picture {
+    width: 5em;
+    height: auto;
+    padding: 10px;
+}
+
+#profile-picture img{
+    width: 100%;
+    height: auto;
+}
+
+/* Section main informations */
+#strengths,
+#weaknesses,
+#programmation-languages,
+#languages-spoken,
+#tools {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    white-space: nowrap;
+}
+
+/* Classes */
+.container {
+    display: flex;
+    flex-direction: row;
+}
