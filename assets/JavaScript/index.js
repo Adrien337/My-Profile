@@ -1,17 +1,17 @@
 let strengths = [
-    "Discreet",
-    "Attentive",
-    "Organized",
-    "Logic"
+    "Discret",
+    "Attentif",
+    "Organisé",
+    "Logique"
 ];
 let weaknesses = [
-    "Impostor syndrome",
-    "Lack of communication skills",
-    "Too discreet",
-    "Too stressed",
-    "Lack of self-confidence",
-    "Underestimate myself",
-    "Tendency to compare myself to others"
+    "Syndrome de l'imposteur",
+    "Manque de communication",
+    "Trop discret",
+    "Trop stressé",
+    "Manque de confiance en soi",
+    "Sous-estimation",
+    "Tendance à me comparer aux autres"
 ];
 let programmationLanguages = [
     "HTML",
@@ -22,20 +22,20 @@ let programmationLanguages = [
     "C++"
 ];
 let languagesSpoken = [
-    "French (native language)",
-    "English",
-    "Spanish"
+    "Français (langue maternelle)",
+    "Anglais",
+    "Espagnol"
 ];
 let tools = [
     "Visual Studio Code",
     "Figma",
-    "Adobe suite",
-    "Microsoft Office 365 suite",
+    "Suite Adobe",
+    "Suite Microsoft Office 365",
     "Wordpress"
 ];
 let interests = [
     "Animes",
-    "Video games",
+    "Jeux vidéos",
     "Programmation"
 ];
 
